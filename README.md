@@ -17,7 +17,7 @@ IChat is a React Native project built using ReactNative[Expo].
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/IChat.git
+    git clone https://github.com/Asitha998/IChat_ReactNative_Chat_Application.git
     cd IChat
     ```
 
